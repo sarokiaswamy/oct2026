@@ -1,3 +1,5 @@
+// Created for demo
+
 """GridPay — smart meter billing with remote disconnect.
 
 Flask + SQLite + MQTT (HiveMQ).
